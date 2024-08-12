@@ -1,0 +1,84 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[style=mla,backend=biber]{biblatex}
+\usepackage[letterpaper]{geometry}
+\usepackage{times}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+\usepackage{lipsum}  
+%
+%Doublespacing
+%
+\usepackage{setspace}
+\doublespacing
+
+%
+%Rotating tables (e.g. sideways when too long)
+%
+\usepackage{rotating}
+
+
+%
+%Fancy-header package to modify header/page numbering (Put your surname in the surname field)
+%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{} 
+\chead{} 
+\rhead{Lin \thepage}
+\lfoot{} 
+\cfoot{} 
+\rfoot{} 
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt} 
+%To make sure we actually have header 0.5in away from top edge
+%12pt is one-sixth of an inch. Subtract this from 0.5in to get headsep value
+\setlength\headsep{0.333in}
+
+%
+%Works cited environment
+%(to start, use \begin{workscited...}, each entry preceded by \bibent)
+% - from Ryan Alcock's MLA style file
+%
+\newcommand{\bibent}{\noindent \hangindent 40pt}
+\newenvironment{workscited}{\newpage \begin{center} Works Cited \end{center}}{\newpage }
+
+
+%You put your name title and professor name in here 
+\renewcommand{\maketitle}{\makemlaheader}
+\newcommand{\C}{\autocite}
+
+\newcommand{\makemlaheader}{
+Warren Lin \\
+Mr. Jackson\\
+AP Language&Composition\\
+July 18, 2024\\
+\begin{center}\textnormal{Command and Control: the illusion of power and safety}\end{center}
+
+% for some reason, this blank line is necessary
+}
+
+
+
+
+
+
+\addbibresource{refs.bib} % you would use your own bib file here
+\begin{document}
+\begin{flushleft}
+
+%%%%First page name, class, etc
+
+\maketitle
+%%%%Title
+
+"With great power comes great responsibility" is a phrase one might hear in a high position. Atomic weapons, destructive weapons of Hiroshima and Nagasaki, have plagued fear over the human race for many years. During the Cold War, new types of Atomic weapons with effects 10 to 20 times stronger than the ones seen in Japan and the theoretical civilian death could yield psychological effects for future generations. Nuclear fallout, accompanied by the 9 Megaton yield of TNT produced by the Titan II, an ICBM, could be truly devastating. Eric Schlosser describes in his book, \textit{Command and Control: Nuclear Weapons, Damascus Accident, and the Illusion of Safety}; believing that "the mixture of human fallibility and technological complexity can lead to disaster."
+Schlosser writes in a binary format, describing the Damascus incident minute by minute then jumping to the lack of safety systems throughout the development of newer and more conventional H-Bombs or Thermonuclear Warheads. Schlosser doesn't just blame the human fallacies but also the control systems behind these complex machines. Schlosser is trying to prove that complex systems wouldn't work when a human is in panic due to the psychological nature of Homo Sapiens. The book repetitively mentions how the illusion of being in control of a disastrous situation can be the ultimate reason for disaster, and how safety routines couldn't just be predicted, due to the complexity of human psychology. Schlosser informs and persuades that safety is not granted, by emphasizing the lack of transparency when developing and testing nuclear weapons to the lack of transparency while devising the plan to recover the Titan II. Schlosser wins the reader's credibility by describing each event with incredible detail, from the exact words spoken by the crew maintaining the Titan II missile to the remarks made by Oppenheimer when asked about the development of the H-Bomb. Other than credibility the author is very effective at establishing the book's purpose. At the end of each part, an analysis of what went wrong and how it could've been prevented. The author creates a lot of 'If' scenarios to augment the possibilities of the issues. Schlosser's thesis is supported by the events described 'Shrimp' which was theorized by mathematicians developing the bomb to yield around 10 megatons but ended up exceeding 12 megatons. "ten seconds after Shrimp exploded, the underground bunker seemed to be moving." (Schlosser 137) Schlosser mimics the blast by representing the speed of sound correctly; later Schlosser explains that the immense blast moved the bunker located opposite of the blast site on the atoll. This book is meant for people willing to explore the political and scientific aspects of the greatest deterrence in the United States. The safety of a human's life shouldn't be dependent on how humans perform under stress. This book describes safety loopholes and how many are reassured about safety. With the stress one might find working in a high-stakes situation and not taking precautions can lead to the demise of many. Nuclear Weapons are truly weapons of mass destruction, requiring responsibility, a way for humans to act as a deity. 
+
+\newpage
+
+\printbibliography
+
+
+\end{flushleft}
+\end{document}

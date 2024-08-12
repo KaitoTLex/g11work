@@ -1,0 +1,19 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdftex 2024.8.10)  11 AUG 2024 23:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**APLANG-Command_and_Control:_NuclearWeapons,_the_Damascus,_and_the_Illusion_of
+_Safety.tex
+
+(./APLANG-Command_and_Control:_NuclearWeapons,_the_Damascus,_and_the_Illusion_o
+f_Safety.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [12pt,letterpaper]{article}
+? 
+! Emergency stop.
+l.1 
+    
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
