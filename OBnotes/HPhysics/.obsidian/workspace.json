@@ -1,54 +1,53 @@
 {
   "main": {
-    "id": "77dd22b0a7beb173",
+    "id": "5911e680fabad078",
     "type": "split",
     "children": [
       {
-        "id": "61c6d503d9c87771",
+        "id": "20a47a94a1109437",
         "type": "tabs",
         "children": [
           {
-            "id": "d958c5ed69343182",
+            "id": "71462dc2da0f717b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review Book/Ch1&2 Zekkel/H16KD0813.md",
+                "file": "Welcome.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff24976b4fd0031a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review Book/Ch1&2 Zekkel/H18KD0813.md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4e0a3edbc188ae06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9364f6b9f5370df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "33a3a062c430b1cd",
+    "id": "2e8cabfc897ce93c",
     "type": "split",
     "children": [
       {
-        "id": "76e2504097d0ca9b",
+        "id": "77ccd245457c10d2",
         "type": "tabs",
         "children": [
           {
-            "id": "dbbb258c8388d31f",
+            "id": "7bda9113636478d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +57,7 @@
             }
           },
           {
-            "id": "b52d24781187e117",
+            "id": "d1a27613bffad075",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +72,7 @@
             }
           },
           {
-            "id": "e7bc5edffe3604c9",
+            "id": "351ed5be6843c7c3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "4c0802e16f04d9e1",
+    "id": "15c0adbf239a1857",
     "type": "split",
     "children": [
       {
-        "id": "273993a335c2d3e7",
+        "id": "eba30fa4cf05a5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "db775b969d5cd040",
+            "id": "79ee465443038fad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review Book/Ch1&2 Zekkel/H18KD0813.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +111,19 @@
             }
           },
           {
-            "id": "d1f6efeb6d9da97f",
+            "id": "52d89d48a2710ddd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review Book/Ch1&2 Zekkel/H18KD0813.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bfc1b0549a2eaba1",
+            "id": "3246cd1939669c07",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,37 +134,20 @@
             }
           },
           {
-            "id": "071354bd78bd2e0d",
+            "id": "3477d08beb6d08c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review Book/Ch1&2 Zekkel/H18KD0813.md"
+                "file": "Welcome.md"
               }
             }
-          },
-          {
-            "id": "4bb647c02e5ec2c3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ece9bf8766a63826",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,40 +157,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ff24976b4fd0031a",
+  "active": "71462dc2da0f717b",
   "lastOpenFiles": [
-    "Review Book/Ch1&2 Zekkel/H17KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H18KD0813.md",
-    "Home.md",
-    "Review Book/H10KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H16KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H15KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H14KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H12KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H13KD0813.md",
-    "Review Book/Ch1&2 Zekkel/H11KD0813.md",
-    "Daily Notes/2024-08-15.md",
-    "Daily Notes/2024-08-13.md",
-    "Pre-Scoring.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.md",
-    "H01KD0813.md",
-    "H02KD0813.md",
-    "Review Book/Ch1&2 Zekkel",
-    "Review Book",
-    "Unit1&2 New World and Colonization.md",
-    "Unit1 New World.md",
-    "Assingments",
-    "Daily Notes",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
