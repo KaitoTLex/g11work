@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdftex 2024.8.10)  11 AUG 2024 23:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdftex 2024.8.20)  21 AUG 2024 08:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,9 +11,122 @@ f_Safety.tex
 l.1 \documentclass
                   [12pt,letterpaper]{article}
 ? 
-! Emergency stop.
-l.1 
-    
-End of file on the terminal!
+! Undefined control sequence.
+l.2 \usepackage
+               [american]{babel}
+? 
+! Undefined control sequence.
+l.3 \usepackage
+               {csquotes}
+? 
+! Undefined control sequence.
+l.4 \usepackage
+               [style=mla,backend=biber]{biblatex}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               [letterpaper]{geometry}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {times}
+? 
+! Undefined control sequence.
+l.7 \geometry
+             {top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               {lipsum}
+? 
+! Undefined control sequence.
+l.12 \usepackage
+                {setspace}
+? 
+! Undefined control sequence.
+l.13 \doublespacing
+                   
+? 
 
-!  ==> Fatal error occurred, no output PDF file produced!
+Overfull \hbox (14.52377pt too wide) in paragraph at lines 1--14
+[]\tenrm [12pt,letterpaper]article [amer-i-can]babel csquotes [style=mla,backen
+d=biber]biblatex [let-ter-pa-per]geometry|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm 1
+.\tenrm 2
+.\tenrm p
+.etc.
+
+! Undefined control sequence.
+l.18 \usepackage
+                {rotating}
+? 
+! Undefined control sequence.
+l.24 \usepackage
+                {fancyhdr}
+? 
+! Undefined control sequence.
+l.25 \pagestyle
+               {fancy}
+? 
+! Undefined control sequence.
+l.26 \lhead
+           {}
+? 
+! Undefined control sequence.
+l.27 \chead
+           {}
+? 
+! Undefined control sequence.
+l.28 \rhead
+           {Lin \thepage}
+? 
+! Undefined control sequence.
+l.28 \rhead{Lin \thepage
+                        }
+? 
+! Undefined control sequence.
+l.29 \lfoot
+           {}
+? 
+! Undefined control sequence.
+l.30 \cfoot
+           {}
+? 
+! Undefined control sequence.
+l.31 \rfoot
+           {}
+? 
+! Undefined control sequence.
+l.32 \renewcommand
+                  {\headrulewidth}{0pt}
+? 
+! Undefined control sequence.
+l.32 \renewcommand{\headrulewidth
+                                 }{0pt}
+? 
+! Undefined control sequence.
+l.33 \renewcommand
+                  {\footrulewidth}{0pt}
+? ls
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? ^^Xz
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? x
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
