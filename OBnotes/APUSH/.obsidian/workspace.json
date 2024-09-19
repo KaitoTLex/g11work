@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd79e9c13072675",
+        "id": "df40ec4384b1ac47",
         "type": "tabs",
         "children": [
           {
-            "id": "e047b365a4d3a076",
+            "id": "8a2395b3725c0f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af12e3175bc34ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-21.md",
+                "file": "2024-09-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-21.md",
+                "file": "2024-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-21.md",
+                "file": "2024-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-21.md"
+                "file": "2024-09-13.md"
               }
             }
           },
@@ -169,10 +156,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
@@ -181,12 +168,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e047b365a4d3a076",
+  "active": "8a2395b3725c0f88",
   "lastOpenFiles": [
+    "Home.md",
+    "2024-09-13.md",
+    "Daily Notes/2024-09-10.md",
+    "Daily Notes/2024-08-21.md",
     "H11LD0821.md",
     "Review Book/H10KD0813.md",
-    "Daily Notes/2024-08-21.md",
-    "Home.md",
     "Daily Notes/2024-08-15.md",
     "Daily Notes/2024-08-13.md",
     "Lectures/H13LD0820.md",

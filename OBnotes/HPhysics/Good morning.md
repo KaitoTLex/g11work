@@ -13,8 +13,12 @@ This is the home page of the Notes for Physics:
 
 #### Priming Information
 [[S01BD0821]]
+
 #### Lectures
 
-SI Units - [[S11LD0821]]
+SI Units - [[S01LD0821]]
+Acceleration - [[S11LD0903]]
+
+
 #### Book Notes
 Intro Notes (SI Units)
