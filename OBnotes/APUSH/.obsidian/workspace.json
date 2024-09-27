@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df40ec4384b1ac47",
+        "id": "8df057bf26eb13d1",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2395b3725c0f88",
+            "id": "5fabf10375038d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-13.md",
+                "file": "2024-09-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c0802e16f04d9e1",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-13.md",
+                "file": "2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-13.md",
+                "file": "2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-13.md"
+                "file": "2024-09-23.md"
               }
             }
           },
@@ -164,14 +165,16 @@
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8a2395b3725c0f88",
+  "active": "5fabf10375038d14",
   "lastOpenFiles": [
+    "2024-09-23.md",
     "Home.md",
-    "2024-09-13.md",
+    "H31K0921.md",
+    "Daily Notes/2024-09-13.md",
     "Daily Notes/2024-09-10.md",
     "Daily Notes/2024-08-21.md",
     "H11LD0821.md",
@@ -200,9 +203,7 @@
     "Review Book/Ch1&2 Zekkel",
     "Review Book",
     "Unit1&2 New World and Colonization.md",
-    "Unit1 New World.md",
     "Assingments",
-    "Daily Notes",
-    "create a link.md"
+    "Daily Notes"
   ]
 }
