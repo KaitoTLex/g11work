@@ -8,7 +8,7 @@ L/K/B - Lecture/Review Book/Textbook
 D - Date (MMDD) 
 MM - Month
 DD - Date
-L - Layers (only if it exceeds 2)
+L - Layers Spacer (only if it exceeds 2) 
 0 - If the number of layers exceed 2 then put layer 3
 
 ##### This is the main/home page of the AP US History Course. Notes can be found in Chronological Order:
@@ -23,7 +23,7 @@ L - Layers (only if it exceeds 2)
 - Religion [H16KD0813]
 - Slavery [H17KD0813]
 - Trade/Government/Periods [H18KD0813]
-##### Unit1L1
+##### Unit1
 - [[H11LD0821]] 
 ##### Unit 2
 - Conflict and Diversity [[H20BD1119]]
@@ -48,6 +48,14 @@ L - Layers (only if it exceeds 2)
 - War of 1812
 
 ##### Unit 3
+<<<<<<< HEAD
 - [[H31K0921]] - Intro
 ##### Unit 4
 - [[H30BD1119]]
+=======
+- [[H31U0921]] - Intro
+- [[H31U1010]] - Conflicts of NA
+- [[H32U1011]] - 
+- [[H33B1011]] -
+- [[H33B1011]]
+>>>>>>> 313d16e (no way)
