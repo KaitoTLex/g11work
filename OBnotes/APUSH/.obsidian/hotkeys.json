@@ -2,15 +2,8 @@
   "omnisearch:show-modal-infile": [
     {
       "modifiers": [
+        "Mod",
         "Shift"
-      ],
-      "key": " "
-    }
-  ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod"
       ],
       "key": " "
     }
