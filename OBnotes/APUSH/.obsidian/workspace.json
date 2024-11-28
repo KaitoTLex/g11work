@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8df057bf26eb13d1",
+        "id": "fd7112a97f895c34",
         "type": "tabs",
         "children": [
           {
-            "id": "5fabf10375038d14",
+            "id": "a5610d90d27a254e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Lecture Notes/H13LD0820.md",
+=======
+                "file": "Unit 2/H32U1011.md",
+>>>>>>> 313d16e (no way)
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md",
+=======
+                "file": "Unit 2/H32U1011.md",
+>>>>>>> 313d16e (no way)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md",
+=======
+                "file": "Unit 2/H32U1011.md",
+>>>>>>> 313d16e (no way)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,10 +168,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md"
               },
               "icon": "lucide-list",
               "title": "Outline of H10KD0813"
+=======
+                "file": "Unit 2/H32U1011.md"
+              }
+>>>>>>> 313d16e (no way)
             }
           },
           {
@@ -203,6 +220,7 @@
       "omnisearch:Omnisearch": false
     }
   },
+<<<<<<< HEAD
   "active": "fc7b35f58f8f828e",
   "lastOpenFiles": [
     "Fall Research/Economical/E01-1829.md",
@@ -229,6 +247,21 @@
     "Daily Notes/2024-09-13.md",
     "Daily Notes/2024-09-10.md",
     "Daily Notes/2024-08-21.md",
+=======
+  "active": "a5610d90d27a254e",
+  "lastOpenFiles": [
+    "Unit 2/H31U1010.md",
+    "Unit 2/H31U0921.md",
+    "Home.md",
+    "Unit 2/H32U1011.md",
+    "2024-09-23.md",
+    "Unit 2",
+    "H11LD0821.md",
+    "Daily Notes/2024-09-13.md",
+    "Daily Notes/2024-09-10.md",
+    "Daily Notes/2024-08-21.md",
+    "Review Book/H10KD0813.md",
+>>>>>>> 313d16e (no way)
     "Daily Notes/2024-08-15.md",
     "Daily Notes/2024-08-13.md",
     "Untitled.md",
@@ -240,8 +273,14 @@
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
+<<<<<<< HEAD
     "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel",
     "Content - PECS, Docs, ReviewBook",
+=======
+    "H01KD0813.md",
+    "Review Book/Ch1&2 Zekkel",
+    "Review Book",
+>>>>>>> 313d16e (no way)
     "Assingments",
     "Daily Notes"
   ]
