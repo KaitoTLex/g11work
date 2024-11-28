@@ -1,0 +1,56 @@
+\documentclass{article}
+\usepackage{setspace}
+
+\title{Women in the Antebellum period: Taking Advantage of the System}
+\author{Warren Lin}
+
+\maketitle
+
+\newpage
+
+\begin{document}
+
+\newpage
+
+%Write the abstract last
+\begin{abstract}
+
+
+\end{abstract}
+
+\newpage
+
+\doublespacing
+\tableofcontents
+\singlespacing
+
+\newpage
+
+\section{Introduction}
+\subsection{Background}
+\subsection{claim}
+
+%Point 1: #NOT TRUMP
+\section{Non-Political Politics}
+\subsection{Seneca Falls Convention}
+\subsection{Educational Expressionism}
+\subsection{Abolitionist Movement}
+
+%Point 2: Econ
+\section{Economic: Property and Workers}
+The antebellum period saw many economic reforms for women. They were the first to successfully unionize for a safer work environment and better wages. Single women were seceptable to manipulation, typically for the slight economic independence from that of low-wage jobs such as textile mills, domestic servitude, and harlotry. These jobs typically offered low wages to compensate for hazardous work environments. The Lowell girls were the first to mobilize and fight for the rights of their own safety.  Married women had different problems: Property Rights. Due to the nullification of ownership when married, these women would often find mitigated ownership rights after marriage. Some men exploit this such that when married to a woman with property, they get to control that property. Many lower-class single women would also have issues finding a place where the money earned from these factories could be used with a return on income. Overall, these underlying problems contributed to the small marginal gains in which women received before the popularization of labor unions and reformed society without any official political rights.
+
+Women received numerous economic advances during the antebellum era. The slight economic freedom from low-paying occupations like textile mills, domestic slavery, and harlotry made single women vulnerable to manipulation. The textile mills usually paid poorly, hardly making up for the dangerous working conditions. The Lowell girls were the first to band together and defend their own safety rights. On the other hand, prostitution was a popular means for women to earn a meager living wage that would cover their expenses in cities. They were the first to successfully form a union in order to demand higher pay and a safer workplace. The lowell girls banded together on strike demanding their overlords to increase wages and improve safety within the factories. Furthermore, women frequently turned to prostitution as a means of earning a meager living wage to cover their expenses in cities. There is a high fatality rate in the industry as a result of the prevalence of aggressive murder brought on by customers' drunkenness and sexually transmitted diseases from frequent sexual contact. Many unmarried women were employed as domestic servants and were "often exploited by the master," \cite{textbook} which led to their departure. However, as they had nowhere else to go, these women returned to the Harlotry.
+\subsection{Lowell Girls}
+\subsection{Brothel Workers and Domestic Servants}
+\subsection{Property Rights}
+
+%Point 3: Shake it off
+\section{Cultural Influences}
+\subsection{Challanging conservative gender roles}
+\subsection{Temprance Society}
+\subsection{Spiritual Socialism}
+
+\bibliographystyle{style}
+\bibliography{works}
+\end{document}

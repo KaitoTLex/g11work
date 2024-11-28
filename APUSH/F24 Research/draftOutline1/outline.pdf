@@ -1,0 +1,86 @@
+#set page(
+ paper: "us-letter",
+ numbering:"i",
+)
+#align(center, text(21pt)[
+ *Women's Political Influence during the Antebellum Period: \ _Outline_*
+])
+#align(center,text(12pt)[
+Warren Lin \
+_San Ramon Valley High School_ \
+APUSH Fall Research Paper \
+])
+#pagebreak()
+#set page(
+ header: align(left)[
+  *Women's Political Influence during the Antebellum Period*
+ ],
+)
+#outline()
+#pagebreak()
+#set page(
+ numbering:"1",
+)
+#counter(page).update(1)
+#set text(
+ font:"Liberation Serif",
+ size: 12pt
+)
+= Introduction
+//thesis statement including arguments A, B and C.
+/*Although waman's political influence were deemed insignificant compared to the men, they used their words by litrature, civilian agreed debates, and conventions to address the political conerns regarding the "Freedom" of America*/
+...Typically women's influence in the political field, with respect to the US Government, seemed lackluster; the most effective way that Women expressed their political concerns by using litrature, organized protests, and conventions to disscuss a common concern of Slavery; this challanged _"Freedom"_ within America and the influence would develop to the _Suffarage Movement_.
+= Body Paragraphs
+// Describe how each Arugument Ties back to eachother
+== Sub Argument A
+//Topic Sentences for all the 3 Details including commentary
+Conventions were a prime example of how Women armed their words for an advantage, Conventions such as the one in Seneca Falls and Anti-Slavery for Women pushed the freedom.
+=== Detail 1
+The Anti-Slavery Convention of American Women #cite(<stone1838>) helped women understand the abolitionist movement by debates and litrature.
+//Proves your argument, paraphrased or smth
+=== Commentary
+//Explain your concrete detail and how it proves your argument
+Many women participated in this convention as it helped them learn debates. Many women participated from _Maine, New York, Penn, New Jersey, New Hampshire,_ and _Rhode Island_. This significantly expressed the debates and discussion regarding slavery and human bondage.
+=== Detail 2
+The thought of Women's Rights convention #cite(<palmer1848>) seemed unreal, many women were still illiterate and could not understand. This significantly discouraged the development of political reforms and change within the US Government.
+=== Commentary
+The people thought that this time period had not advanced enought to understand the ideas of political movement. This reformed many liberty and freedom of control. Sparked religious beliefs
+=== Detail 3 //counter
+The Declaration of Sentiments #cite(<dick1848>) is a document with a similar structure to the Declaration of Independence that described how Men should grant women certain amounts of rights#footnote("with respect to the Government") if not grant a them a certain degree of liberty and how they should operate.
+=== Commentary
+This proves that Women's rights intentions are greater that that of any laws could bound. How it viewed each aspect of the rights and how it interepeted how men have affected the normal rights of men. This convention sparked a movement in which many discussed on the news.
+== Sub Argument B
+//Topic Sentences for all the 3 Details including commentary
+Another way women fought for the abolitionist movement is via litrature; from the works of _Uncle Tom's Cabin_ to the speech _Aren't I A Women_, it is works like these that the magnitude of the Abolitionist movement shined.
+=== Detail 1
+Disregarded by men as it shun in a compelling way. Sojourner Truth's _Aren't I A Women_#cite(<truth1851>) proves that the typical black lady would always ahve a bigger magnitude with words that defyed the social norm.
+=== Commentary
+Although that Truth has been discouraged to be giving this speech regarding her family and the horrors of slavery. Truth argues using the domestic sphere of influence and republican motherhood to define her role as a women in the American society. This connects back to the women's influence in the anti-slavery movement.
+=== Detail 2 //counter
+Uncle Tom's Cabin #cite(<stowe>) illustrate the horrors of slavery by describing a runaway slave, in an attempt to save her child.
+=== Commentary
+Many were hit by this piece of litrature as it sparked the beginning of a new idea. This was primarily because it had maternalism and other related topics on it. This challanged many well off white women to take part of their advantage in the domestic sphere of influence.
+=== Detail 3//counter-counter
+Women were typically illererate in Kelly Mary's _Reading Women/Women reading_#cite(<mary1993>) but many schools and priate instutions have been created to improve literacy rates among women. Where they learned about trancedentalism and inspired many to  be abolitionists.
+=== Commentary
+This proved that women were desperate to learn and to be motivated to create movements in which would benefit society.
+== Sub Arument C
+//Topic Sentences for all the 3 Details including commentary
+The organized protests regarding the protests of the tyranical men. The organized women would work together with the goal of gaining voting independcence. This can be seen with the Letters from Elizabeth B Stanton.
+=== Detail 1//counter.
+Elizabeth Cady Stanton #cite(<stanton1814>) wrote to Susan B. Anthony regarding her concerns on women being rejected to education. This sparked a demand for balance in socitial affairs such that women have a level playing field in society.
+=== Commentary
+This document significantly increases the argument in change from women during the antebellum period. This also significantly impacted the future where women are in dire need of education and literacy rates were more needed.
+=== Detail 2
+Stansell explores how women were dependent on men in the book _City of Women_ #cite(<stansell1982>) which talks about how income and property is dependent on men otherwise women had to work in brothel to recieve shelter. However Stansell points out that many women saw the holes in living life like this saying that some women even though tied to the brothel decided to escape to other states where the jurisdiction is different.
+=== Commentary
+This document explores how the enlightenment that proved that working tirelessly under bondage is inmoral led to more women notioning towards the freedom of these slave workers.
+=== Detail 3
+Fredrick Douglass describes her thoughts on Lucy Stone who has compromised many anti-slavery movement. This is also the reason for the women's rights conventions had less and less black participants becuase of the introduction of Senator Douglas as the speaker for Stone's popularity.#cite(<douglass1848>)
+=== Commentary
+Although most women used organized thinking for the abolitionist movement some don't for example Mrs.Stone who perfered suffrage movement over the Abolitionist movement which would have not started a war for the fight of a Union.
+= Conclusion//defend the claim and argue the counterclaim
+Women tend to follow the outline of abolitionist movement by interchanging ideas from conventions, organized information exchanges, and litrature to push the Abolitionist agenda. This significantly improved conditions with other members of the party.
+= Final thoughts
+These reforms would help women learn and improve conditions for the voting of women with the Suffarage movement.
+#bibliography("works.bib")
