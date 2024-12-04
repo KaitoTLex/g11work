@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'works.bib.blg'
+[207] biber:340> INFO - === Tue Nov 26, 2024, 11:24:30
+[473] Utils.pm:410> ERROR - Cannot find 'works.bib.bcf'!
+[473] Biber.pm:136> INFO - ERRORS: 1
