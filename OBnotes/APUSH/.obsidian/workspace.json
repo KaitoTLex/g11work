@@ -1,33 +1,14 @@
 {
   "main": {
-    "id": "77dd22b0a7beb173",
+    "id": "62aeda38a84bbc31",
     "type": "split",
     "children": [
       {
-        "id": "fd7112a97f895c34",
+        "id": "57e0a19bd6edf3ba",
         "type": "tabs",
         "children": [
           {
-            "id": "a5610d90d27a254e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Lecture Notes/H13LD0820.md",
-=======
-                "file": "Unit 2/H32U1011.md",
->>>>>>> 313d16e (no way)
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H13LD0820"
-            }
-          },
-          {
-            "id": "fc7b35f58f8f828e",
+            "id": "475a32a8e191f4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,22 +22,21 @@
               "title": "Main()"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "33a3a062c430b1cd",
+    "id": "20ff3f44278256dc",
     "type": "split",
     "children": [
       {
-        "id": "76e2504097d0ca9b",
+        "id": "949e2ef5253a8b93",
         "type": "tabs",
         "children": [
           {
-            "id": "dbbb258c8388d31f",
+            "id": "e0b88ef817131c87",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +48,7 @@
             }
           },
           {
-            "id": "b52d24781187e117",
+            "id": "3e5c10aa26648899",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +65,7 @@
             }
           },
           {
-            "id": "e7bc5edffe3604c9",
+            "id": "cdf70361d23e99aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,24 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "4c0802e16f04d9e1",
+    "id": "9bd60a1e40e6faee",
     "type": "split",
     "children": [
       {
-        "id": "273993a335c2d3e7",
+        "id": "5ac398f377980d88",
         "type": "tabs",
         "children": [
           {
-            "id": "db775b969d5cd040",
+            "id": "d9dcdc80aa949d38",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md",
-=======
-                "file": "Unit 2/H32U1011.md",
->>>>>>> 313d16e (no way)
+                "file": "Fall Research/Main().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,29 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for H10KD0813"
+              "title": "Backlinks for Main()"
             }
           },
           {
-            "id": "d1f6efeb6d9da97f",
+            "id": "b92b601c707e4363",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md",
-=======
-                "file": "Unit 2/H32U1011.md",
->>>>>>> 313d16e (no way)
+                "file": "Fall Research/Main().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from H10KD0813"
+              "title": "Outgoing links from Main()"
             }
           },
           {
-            "id": "bfc1b0549a2eaba1",
+            "id": "aebef3fbbc6e3208",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,24 +135,19 @@
             }
           },
           {
-            "id": "071354bd78bd2e0d",
+            "id": "89bcfb2d268deb84",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md"
+                "file": "Fall Research/Main().md"
               },
               "icon": "lucide-list",
-              "title": "Outline of H10KD0813"
-=======
-                "file": "Unit 2/H32U1011.md"
-              }
->>>>>>> 313d16e (no way)
+              "title": "Outline of Main()"
             }
           },
           {
-            "id": "4bb647c02e5ec2c3",
+            "id": "e7ba8b354263f9e8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -188,31 +155,20 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "ece9bf8766a63826",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
@@ -220,68 +176,6 @@
       "omnisearch:Omnisearch": false
     }
   },
-<<<<<<< HEAD
-  "active": "fc7b35f58f8f828e",
-  "lastOpenFiles": [
-    "Fall Research/Economical/E01-1829.md",
-    "Fall Research/Main().md",
-    "Fall Research/Economical/E03-2018.md",
-    "Fall Research/Economical/E02-1840.md",
-    "Fall Research/Economical/E05-1836.md",
-    "Fall Research/Cultural",
-    "Fall Research/Economical",
-    "Fall Research/Political",
-    "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H15KD0813.md",
-    "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H16KD0813.md",
-    "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H13KD0813.md",
-    "Content - PECS, Docs, ReviewBook/H11LD0821.md",
-    "Content - PECS, Docs, ReviewBook/H30BD1119.md",
-    "Content - PECS, Docs, ReviewBook/H31K0921.md",
-    "Content - PECS, Docs, ReviewBook/Ch3 Zettel/H20BD1119.md",
-    "Home.md",
-    "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H14KD0813.md",
-    "H21BD1119.md",
-    "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel/H10KD0813.md",
-    "Lecture Notes/H13LD0820.md",
-    "Content - PECS, Docs, ReviewBook/Ch3 Zettel",
-    "Daily Notes/2024-09-13.md",
-    "Daily Notes/2024-09-10.md",
-    "Daily Notes/2024-08-21.md",
-=======
-  "active": "a5610d90d27a254e",
-  "lastOpenFiles": [
-    "Unit 2/H31U1010.md",
-    "Unit 2/H31U0921.md",
-    "Home.md",
-    "Unit 2/H32U1011.md",
-    "2024-09-23.md",
-    "Unit 2",
-    "H11LD0821.md",
-    "Daily Notes/2024-09-13.md",
-    "Daily Notes/2024-09-10.md",
-    "Daily Notes/2024-08-21.md",
-    "Review Book/H10KD0813.md",
->>>>>>> 313d16e (no way)
-    "Daily Notes/2024-08-15.md",
-    "Daily Notes/2024-08-13.md",
-    "Untitled.md",
-    "Lecture Notes/H12LD0820.md",
-    "Lecture Notes/H11LD0820.md",
-    "Fall Research",
-    "2024-11-15.md",
-    "Lecture Notes",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-<<<<<<< HEAD
-    "Content - PECS, Docs, ReviewBook/Ch1&2 Zekkel",
-    "Content - PECS, Docs, ReviewBook",
-=======
-    "H01KD0813.md",
-    "Review Book/Ch1&2 Zekkel",
-    "Review Book",
->>>>>>> 313d16e (no way)
-    "Assingments",
-    "Daily Notes"
-  ]
+  "active": "475a32a8e191f4b7",
+  "lastOpenFiles": []
 }

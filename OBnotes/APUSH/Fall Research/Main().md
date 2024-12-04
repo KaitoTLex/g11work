@@ -1,6 +1,7 @@
 # **Women in the Antebellium Period**
 ## Draft Thesis
 - Although Women were seeking political gains dispite lacking in political power, constantly challanging white men and defending american society. Women praticed mock political organizations, fought for wages and ownership and challanged social norms to recieve a degree of freedom. 
+
 ## Possible Questions to Answer
 1. why are some women sucessful in reforms and some arent?
 2. who does this generally apply towards, how have they been used to challange
